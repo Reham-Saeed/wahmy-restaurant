@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "npx tailwindcss -i ./src/css/input.css -o ./dist/output.css --minify"
+    "vercel-build": "npx tailwindcss -i ./src/css/input.css -o ./dist/output.css --minify"
   },
   "devDependencies": {
     "tailwindcss": "^4.1.4"
