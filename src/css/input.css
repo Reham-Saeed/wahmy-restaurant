@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+* {
+  scroll-behavior: smooth;
+}
+.active-link {
+  @apply text-red-600 font-bold;
+}

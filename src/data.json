@@ -1,0 +1,283 @@
+{
+  "menuItems": [
+    {
+      "id": 1,
+      "name": "Space Burger Meal",
+      "image": "src/images/Space-Burger.jpg",
+      "price": 195,
+      "details": "1100 KCAL, Angus meat topped with Bohemian sauce, soy sauce and mayonnaise, with added lettuce, tomatoes, Pickled cucumber, and red onions.",
+      "category": "Burger Meals",
+      "bestseller": false
+    },
+    {
+      "id": 2,
+      "name": "BBQ & Onion Rings Burger Meal",
+      "image": "src/images/BBQ & Onion Rings Burger Meal.jpg",
+      "price": 230,
+      "details": "Angus beef burger with BBQ sauce, crispy onion rings, lettuce, and special sauce",
+      "category": "Burger Meals",
+      "bestseller": true
+    },
+    {
+      "id": 3,
+      "name": "Bacon & Mushroom Burger Meal",
+      "image": "src/images/Bacon & Mushroom Burger Meal.jpg",
+      "price": 240,
+      "details": "Juicy beef patty with smoked bacon, sautéed mushrooms, and melted cheese",
+      "category": "Burger Meals",
+      "bestseller": false
+    },
+    {
+      "id": 4,
+      "name": "Classic Bacon Burger Meal",
+      "image": "src/images/Classic Bacon Burger Meal.jpg",
+      "price": 230,
+      "details": "Angus beef stuffed with cheese, bacon slices and mayonnaise sauce with tomatoes, lettuce, pickled cucumbers and red onions.",
+      "category": "Burger Meals",
+      "bestseller": false
+    },
+    {
+      "id": 5,
+      "name": "Special Burger Meal",
+      "image": "src/images/Special Burger Meal.jpg",
+      "price": 255,
+      "details": "Our signature burger with special sauce, double cheese, and all the fixings",
+      "category": "Burger Meals",
+      "bestseller": false
+    },
+    {
+      "id": 6,
+      "name": "Ranch Burger Meal",
+      "image": "src/images/Ranch Burger Meal.jpg",
+      "price": 220,
+      "details": "1450 KCAL, Angus meat stuffed with cheese and topped with ranch sauce. Cheese sauce with added mozzarella sticks, lettuce, tomatoes, Pickled cucumber, and red onions. Served with potatoes, fried corn and a soft drink",
+      "category": "Burger Meals",
+      "bestseller": false
+    },
+    {
+      "id": 7,
+      "name": "Truffle Mushroom Burger Meal",
+      "image": "src/images/Truffle Mushroom Burger Meal.jpg",
+      "price": 275,
+      "details": "Premium burger with truffle-infused mushrooms and gourmet cheese",
+      "category": "Burger Meals",
+      "bestseller": true
+    },
+    {
+      "id": 8,
+      "name": "Super Makok Box",
+      "image": "src/images/super-makok-box.jpeg",
+      "price": 230,
+      "details": "Super smoky burger sandwiches stuffed with smoky cheese, smoked beef, two mozzarella sticks, two pieces of onion ring, Wahmi's signature smoky sauce, and buttered brioche bread. Served with a packet of fries, 2 pieces of fried corn seasoned with Wahmi's special spices a soft drink",
+      "category": "Family Box",
+      "bestseller": false
+    },
+    {
+      "id": 9,
+      "name": "Crunchy Dip Box",
+      "image": "src/images/Crunchy Dip Box.jpg",
+      "price": 230,
+      "details": "2 Angus burger sandwiches with cheese, crunches and 2 cola",
+      "category": "Family Box",
+      "bestseller": true
+    },
+    {
+      "id": 10,
+      "name": "Makok Box",
+      "image": "src/images/makok-box.jpeg",
+      "price":345,
+      "details": "Two smoky burger sandwiches stuffed with cheese, smoked beef, tomatoes, lettuce, pickles, Wahmi's signature smoky sauce and buttered brioche bread. Served with 2 packets of fries, 4 pieces of fried corn seasoned with Wahmi's special spices with 2 soft drink",
+      "category": "Family Box",
+      "bestseller": false
+    },
+    {
+      "id": 11,
+      "name": "Wahmy Chicken Sandwich",
+      "image": "src/images/wahmy-chicken-sandwich.png",
+      "price": 180,
+      "details": "2 Angus burger sandwiches with cheese, crunches and 2 cola",
+      "category": "Sandwiches",
+      "bestseller": false
+    },
+    {
+      "id": 12,
+      "name": "Space Makuk Sandwich",
+      "image": "src/images/Space Makuk Sandwich.jpg",
+      "price": 150,
+      "details": "Our signature space burger in sandwich form with special sauce",
+      "category": "Sandwiches",
+      "bestseller": true
+    },
+    {
+      "id": 13,
+      "name": "BBQ Burger Sandwich And Onion Rings",
+      "image": "src/images/Bbq Burger Sandwich And Onion Rings.jpg",
+      "price": 160,
+      "details": "BBQ flavored burger sandwich with crispy onion rings",
+      "category": "Sandwiches",
+      "bestseller": false
+    },
+    {
+      "id": 14,
+      "name": "Special Burger Sandwich",
+      "image": "src/images/Special Burger Sandwich.jpg",
+      "price": 180,
+      "details": "Our special recipe burger in sandwich form with all the toppings",
+      "category": "Sandwiches",
+      "bestseller": false
+    },
+    {
+      "id": 15,
+      "name": "Ranch Burger Sandwich",
+      "image": "src/images/Ranch Burger Sandwish.jpg",
+      "price": 150,
+      "details": "Creamy ranch flavored burger sandwich with fresh veggies",
+      "category": "Sandwiches",
+      "bestseller": false
+    },
+    {
+      "id": 16,
+      "name": "Space Burger Sandwich",
+      "image": "src/images/space-burger-sandwich.jpg",
+      "price": 180,
+      "details": "Our signature space burger in sandwich version",
+      "category": "Sandwiches",
+      "bestseller": false
+    },
+    {
+      "id": 17,
+      "name": "Bacon Mushroom Burger Sandwich",
+      "image": "src/images/bacon-mushroom-sandwich.jpg",
+      "price": 150,
+      "details": "Bacon and mushroom combo in burger sandwich form",
+      "category": "Sandwiches",
+      "bestseller": true
+    },
+    {
+      "id": 18,
+      "name": "Corn Ribs",
+      "image": "src/images/Corn-Ribs.png",
+      "price": 35,
+      "details": "Crispy corn ribs with special seasoning",
+      "category": "Appetizers",
+      "bestseller": false
+    },
+    {
+      "id": 19,
+      "name": "Loaded Fries",
+      "image": "src/images/loaded-fries.jpg",
+      "price": 30,
+      "details": "Crispy fries loaded with cheese and toppings",
+      "category": "Appetizers",
+      "bestseller": false
+    },
+    {
+      "id": 20,
+      "name": "Cheesy Fries",
+      "image": "src/images/cheesy-fries.jpg",
+      "price": 25,
+      "details": "Golden fries smothered in melted cheese",
+      "category": "Appetizers",
+      "bestseller": false
+    },
+    {
+      "id": 21,
+      "name": "Wahmy Snacks",
+      "image": "src/images/wahmy-snacks.jpg",
+      "price": 50,
+      "details": "Assortment of Wahmy's signature snack items",
+      "category": "Appetizers",
+      "bestseller": false
+    },
+    {
+      "id": 22,
+      "name": "Fries",
+      "image": "src/images/fries.jpg",
+      "price": 30,
+      "details": "Classic golden french fries",
+      "category": "Appetizers",
+      "bestseller": false
+    },
+    {
+      "id": 23,
+      "name": "Loaded Cheesy Fries",
+      "image": "src/images/loaded-cheesy-fries.jpg",
+      "price": 45,
+      "details": "Fries loaded with multiple cheeses and toppings",
+      "category": "Appetizers",
+      "bestseller": false
+    },
+    {
+      "id": 24,
+      "name": "Ranch Sauce",
+      "image": "src/images/ranch Sauce.jpg",
+      "price": 10,
+      "details": "Creamy ranch dipping sauce",
+      "category": "Dips",
+      "bestseller": false
+    },
+    {
+      "id": 25,
+      "name": "Cheese Sauce",
+      "image": "src/images/Cheese Sauce.jpg",
+      "price": 10,
+      "details": "Warm melted cheese sauce",
+      "category": "Dips",
+      "bestseller": false
+    },
+    {
+      "id": 26,
+      "name": "BBQ Sauce",
+      "image": "src/images/Bbq Sauce.jpg",
+      "price": 10,
+      "details": "Smoky barbecue dipping sauce",
+      "category": "Dips",
+      "bestseller": false
+    },
+    {
+      "id": 27,
+      "name": "Wahmy Sauce",
+      "image": "src/images/wahmy sauce.jpg",
+      "price": 10,
+      "details": "Our signature secret recipe sauce",
+      "category": "Dips",
+      "bestseller": false
+    },
+    {
+      "id": 28,
+      "name": "Cola",
+      "image": "src/images/img-placeholder.svg",
+      "price": 20,
+      "details": "Refreshing cola drink",
+      "category": "Drinks",
+      "bestseller": false
+    },
+    {
+      "id": 29,
+      "name": "Orange Juice",
+      "image": "src/images/img-placeholder.svg",
+      "price": 20,
+      "details": "Fresh orange juice",
+      "category": "Drinks",
+      "bestseller": false
+    },
+    {
+      "id": 30,
+      "name": "Lemonade",
+      "image": "src/images/img-placeholder.svg",
+      "price": 20,
+      "details": "Homemade lemonade",
+      "category": "Drinks",
+      "bestseller": false
+    },
+    {
+      "id": 31,
+      "name": "Water",
+      "image": "src/images/img-placeholder.svg",
+      "price": 10,
+      "details": "Bottled mineral water",
+      "category": "Drinks",
+      "bestseller": false
+    }
+  ]
+}

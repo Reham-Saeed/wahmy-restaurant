@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.4",
+    "tailwindcss": "^4.1.4"
+  },
+  "scripts": {
+    "build": "tailwindcss -i ./src/css/input.css -o ./dist/output.css --minify"
+  }
+}
